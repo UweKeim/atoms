@@ -16,6 +16,10 @@ Level one in the game:
 
 ![Image](images/atoms-screenshot-5.png)
 
+Level two in the game:
+
+![Image](images/atoms-screenshot-6.png)
+
 Asking the user whether he wants to quit:
 
 ![Image](images/atoms-screenshot-3.png)
@@ -27,3 +31,5 @@ The highscore board:
 The external setup/configuration application, made with [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
 
 ![Image](images/atoms-screenshot-1.png)
+
+Back then in the 1990s it was really fun to develop the game.
