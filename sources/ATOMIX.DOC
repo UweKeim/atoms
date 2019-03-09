@@ -1,0 +1,121 @@
+
+ATOMIX.DOC - Dokumentation zu ATOMIX, Version 1.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ CopyRight 1994-1995 Uwe Keim.
+
+
+Beschreibung:
+=============
+
+ Ziel ist es, die Atome so zu platzieren, wie auf dem Bild unten links auf
+ dem jeweiligen Bildschirm zu sehen.
+
+ Steuerung ber Cursortasten/Space oder Maus.
+
+ Tasten:
+ -------
+
+  Esc           - Abbruch.
+  M             - Wenn Musik m”glich, ein-/ausschalten der Musik.
+  S             - Wenn Sound m”glich, ein-/ausschalten der Sound-Effekte.
+  Shift+F10     - Wenn Cheat eingeschalten, dadurch beenden eines Levels.
+  F1            - Eingeben von Paáwort.
+
+
+ Paáwort nach jedem 4. Level.
+
+
+ Cheats:
+ -------
+  Eingabe der Cheats an das Programm beim Start ber die Kommandozeile als
+  Parameter. Groá-/Kleinschreibung ist wichtig !
+
+  Cheats:
+
+   TIME_OFF     - Schaltet Zeitbegrenzung aus.
+   CHEAT_ON     - Erm”glicht (erfolgreiches) beenden eines Levels mittels
+                  Shift+F10 (s. oben).
+
+   Beispiele:
+
+    "atomix TIME_OFF"                   schaltet Zeit aus.
+    "atomix TIME_OFF CHEAT_ON"          schaltet Zeit aus und Cheat ein.
+    "atomix CHEAT_ON"                   schaltet Cheat an.
+    "atomix CHEAT_ON TIME_OFF"          schaltet Zeit aus und Cheat ein.
+
+
+ Dateien:
+ --------
+  Folgende Dateien sind vorhanden:
+
+   ATOMIX.EXE   - Das Hauptprogramm.
+   ATOMIX.INI   - Initialisierungs-Einstellungen, mit Texteditor „nderbar.
+   ATOMIX.DAT   - Daten (Sounds, Soundtreiber, Bilder, Sprites, Fonts, ...).
+   ATOMIX.DOC   - ASCII-Text Dokumentation.
+
+
+ Bekannte Probleme:
+ ------------------
+  Spielen ber ein Netz (mehrere Personen gleichzeitig) kann zu Problemen
+  fhren, da am Ende des Programms die High-Score in ATOMIX.DAT geschrieben
+  wird. Bei mehreren Spielern gleichzeitg kann das unvorhersehbar werden.
+  Daher : Nur lokal spielen.
+  Oder  : Option [HighScore], Schreibe_HighScore = AN/AUS in ATOMIX.INI
+          auf AUS schalten.
+
+
+ Bug-Reports und Sonstiges an:
+ -----------------------------
+
+  Uwe Keim
+  Rechbergstraáe 12
+
+  73108 Gammelshausen
+
+  eMail: 665947@pcmail.em-fht-esslingen.de
+
+
+ Hinweise:
+ ---------
+
+  Dieses Programm entstand angelehnt an das kommerzielle, gleichnamig Spiel
+  auf Amiga und C-64 der THALION GMBH. Ich beabsichtigt keinerlei Sch„digung
+  dieser Firma. Der Grund dieses Spiel zu machen war, daá ich eine PC-Verison
+  dieses Spieles haben wollte. Erst am Ende des Projekts erfuhr ich von der
+  PC-Version. Meine ist also UNABHNIG entstanden und NICHT geklaut.
+  Lediglich die Graphik ist an die Amiga-Version angelehnt.
+
+  Das Spiel ist FREEWARE !
+
+
+  Der Quelltext ist Turbo Assembler und Borland Pascal 7.0, Real Mode.
+
+
+  Zum „ndern der INI-Datei muá zur Zeit noch ein normaler Text-Editor benutzt
+  werden. Dies soll sich aber noch „ndern.
+
+
+ Systemvoraussetzungen:
+ ----------------------
+
+  Prozessor    >= 80386,
+  Graphikkarte >= VGA,
+  RAM          >= 440k konventionelles RAM.
+  Maus         >= MS-Maus mit installiertem Maus-Treiber wird untersttzt.
+
+  Der RAM-Bedarf ist recht viel; da dies aber mein erstes gr”áeres Projekt
+  in Sachen Graphik war, ist dies zum Teil meiner Unerfahrenheit
+  zuzurechnen. Man m”ge dies entschuldigen, ich arbeite noch an einer
+  Verbesserung !
+
+
+  Spielen Unter Windows:
+
+   nicht empfehlenswert, da unvorhersehbare Reaktionen. Das Programm
+   benutzt einen speziellen Videomodus (Mode X - M. Abrash), der in
+   Windows-Umgebung unter Umst„nden zu Problemen fhren kann.
+
+
+
+  07.04.1995
