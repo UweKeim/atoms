@@ -45,3 +45,7 @@ I had to patch the executables because of a bug in the Turbo Pascal runtime/comp
 To play the game, locate the VirtualBox image in the "vm" sub folder and run it in VirtualBox.
 
 Inside the MS-DOS machine, the game is located in the folder **"C:\uwekeim\atoms"**. Start the **"atoms.exe"** executable.
+
+## Additional information
+
+See [this file for additional documentation](sources/ATOMIX.DOC) about the program and some cheats (all in German only).
