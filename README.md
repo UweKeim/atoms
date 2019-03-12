@@ -1,6 +1,6 @@
 # Atoms
 
-Back in 1995, [I](https://uwe.co) was 22 and I studied at our local university, I had programmed a computer game based on [the game "Atomix"](https://en.wikipedia.org/wiki/Atomix_(video_game)) in Turbo Pascal for MS-DOS. 
+Back in 1995, [I](https://uwe.co) was 22, living in the south of Germany and was studying at our local university. I had programmed a computer game in my spare time based on [the game "Atomix"](https://en.wikipedia.org/wiki/Atomix_(video_game)) in Turbo Pascal and X86 Assembler for MS-DOS. 
 
 [![Foo](images/youtube.png)](https://youtu.be/gdbhJfQu5CE)
 
