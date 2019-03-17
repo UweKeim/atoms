@@ -4,7 +4,7 @@ Back in 1995, [I](https://uwe.co) was 22, living in the south of Germany, and wa
 
 [![YouTube video](images/atoms-youtube.png)](https://youtu.be/gdbhJfQu5CE)
 
-**[See YouTube video here](https://youtu.be/gdbhJfQu5CE)**
+[See YouTube video here](https://youtu.be/gdbhJfQu5CE)
 
 ## Screenshots
 
