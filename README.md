@@ -38,7 +38,7 @@ Back then in the 1990s it was really fun to develop the game.
 
 ## Running the game
 
-I recently made the game runnable again by installing it in a VirtualBox virtual machine with MS-DOS 6.22. 
+I recently made the game runnable again by installing it in a [VirtualBox](https://www.virtualbox.org/) virtual machine with MS-DOS 6.22. 
 
 I had to patch the executables because of a bug in the Turbo Pascal runtime/compiler for faster processors. See [this german c't article](https://www.heise.de/ct/hotline/Nicht-schon-wieder-Runtime-Error-200-307662.html) about details of the **Runtime Error 200**. Download the patching tool as "ctbppat.zip" from [this location](https://www.heise.de/ct/artikel/c-t-Systeminfo-2859100.html).
 
